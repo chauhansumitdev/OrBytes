@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>this is a react fukin project</h1>
+      <h1>initialize</h1>
     </>
   )
 }
