@@ -12,13 +12,13 @@ Dive into a vast collection of articles crafted by a vibrant community of writer
 
 2. **Discover Engaging Articles**: Explore the homepage to find a curated selection of trending and featured articles. Use the search bar to find topics or authors that pique your interest.
 
-3. **Connect with Authors**: Engage with the talented writers behind the articles. Leave comments, share your thoughts, and build connections within the Orbytes community.
+3. **Connect with Authors**: Engage with the talented writers behind the articles. 
 
 ## Express Yourself Through Writing
 
 1. **Craft Your Articles**: Share your insights, experiences, and expertise by creating your own articles. The intuitive writing interface ensures a seamless writing experience.
 
-2. **Receive Feedback and Engagement**: Watch your articles come to life as readers interact with your content. Receive feedback through comments, likes, and shares from the supportive Orbytes community.
+2. **Its Global**: Watch your articles come to life as readers from different places hear you through your articles.
 
 ## Join the Conversation
 
@@ -29,7 +29,5 @@ Orbytes isn't just a platform for reading; it's a space for meaningful conversat
 1. **Sign Up**: Create your Orbytes account at [https://orbytes.vercel.app/](https://orbytes.vercel.app/).
 
 2. **Explore Articles**: Browse through the homepage or use the search feature to find articles that match your interests.
-
-3. **Engage and Interact**: Leave comments, like articles, and connect with other users to enhance your Orbytes experience.
 
 Start your journey with Orbytes today, where every article has a story and every user has a voice. Happy reading!
